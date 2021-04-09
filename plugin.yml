@@ -1,0 +1,10 @@
+name: SMI
+main: xmoveton\smi\SMI
+api:
+  - 1.0.0
+  - 2.0.0
+  - 3.0.0
+  - 3.0.1
+version: 1.0
+author: xMoveton
+website: t.me\xmt_dev
